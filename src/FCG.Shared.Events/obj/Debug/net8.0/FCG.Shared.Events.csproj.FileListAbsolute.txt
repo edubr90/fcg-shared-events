@@ -1,0 +1,12 @@
+C:\Users\Joao Eduardo\source\repos\FGC\fcg-shared-events\src\FCG.Shared.Events\bin\Debug\net8.0\FCG.Shared.Events.deps.json
+C:\Users\Joao Eduardo\source\repos\FGC\fcg-shared-events\src\FCG.Shared.Events\bin\Debug\net8.0\FCG.Shared.Events.dll
+C:\Users\Joao Eduardo\source\repos\FGC\fcg-shared-events\src\FCG.Shared.Events\bin\Debug\net8.0\FCG.Shared.Events.pdb
+C:\Users\Joao Eduardo\source\repos\FGC\fcg-shared-events\src\FCG.Shared.Events\obj\Debug\net8.0\FCG.Shared.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Eduardo\source\repos\FGC\fcg-shared-events\src\FCG.Shared.Events\obj\Debug\net8.0\FCG.Shared.Events.AssemblyInfoInputs.cache
+C:\Users\Joao Eduardo\source\repos\FGC\fcg-shared-events\src\FCG.Shared.Events\obj\Debug\net8.0\FCG.Shared.Events.AssemblyInfo.cs
+C:\Users\Joao Eduardo\source\repos\FGC\fcg-shared-events\src\FCG.Shared.Events\obj\Debug\net8.0\FCG.Shared.Events.csproj.CoreCompileInputs.cache
+C:\Users\Joao Eduardo\source\repos\FGC\fcg-shared-events\src\FCG.Shared.Events\obj\Debug\net8.0\FCG.Shared.Events.sourcelink.json
+C:\Users\Joao Eduardo\source\repos\FGC\fcg-shared-events\src\FCG.Shared.Events\obj\Debug\net8.0\FCG.Shared.Events.dll
+C:\Users\Joao Eduardo\source\repos\FGC\fcg-shared-events\src\FCG.Shared.Events\obj\Debug\net8.0\refint\FCG.Shared.Events.dll
+C:\Users\Joao Eduardo\source\repos\FGC\fcg-shared-events\src\FCG.Shared.Events\obj\Debug\net8.0\FCG.Shared.Events.pdb
+C:\Users\Joao Eduardo\source\repos\FGC\fcg-shared-events\src\FCG.Shared.Events\obj\Debug\net8.0\ref\FCG.Shared.Events.dll
